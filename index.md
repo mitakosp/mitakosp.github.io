@@ -1,4 +1,6 @@
-## Greek Mobile Apps Single Member P.C.
+## Greek Mobile Apps
+
+MITAKOS, PETROS V., SINGLE MEMBER P.C.
 
 Software Services
 
