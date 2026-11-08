@@ -10,9 +10,11 @@ Athens, Greece
 
 TAX ID: 801744406
 
+**Daskalos users:** please read the [Daskalos privacy policy](/daskalos-privacy) (in Greek). The policy below does not apply to Daskalos.
+
 **Privacy Policy**
 
-Greek Mobile Apps (MITAKOS, PETROS V., SINGLE MEMBER P.C.) develops and operates mobile applications, including AutoMoto Wallet and Daskalos.
+Greek Mobile Apps (MITAKOS, PETROS V., SINGLE MEMBER P.C.) develops and operates mobile applications, including AutoMoto Wallet.
 
 This Privacy Policy explains how we collect, use, and protect personal information when you use our applications and related services.
 
